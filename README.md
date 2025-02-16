@@ -1,21 +1,45 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
-LinkedIn GitHub Email
+## Hello World! 🌎
 
----
-I'm Adr1k, an undergraduate student in Computer Network Systems Management at @ITECBCN. I'm looking forward to bridging the gap between Cybersecurity and Artificial Intelligence. I love tackling complex engineering challenges and building innovative solutions.
-
-Based in Barcelona, Spain 🇪🇸
-Studying Networking and Cybersecurity 🛡️
-Learning Python, AWS and Ansible 🐍
-Working on personal projects 🚀
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrmanero/)](https://www.linkedin.com/in/jjean-jacques10/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/AdriaManero-ITB2425/)](https://github.com/AdriaManero-ITB2425/)
 
 ---
-### Skills and Tools
 
-<p align="center">
+Hi, my name is **Adrià Manero!**, I'm an undergraduate student in **Computer Network Systems Management** at [@ITEC-BCN](https://github.com/ITEC-BCN).  
+My passion lies at the intersection of **Cybersecurity and Artificial Intelligence**, where I explore AI-driven security automation, ethical hacking, and network defense strategies.   
+I love tackling complex engineering challenges and building innovative solutions.
+
+🌍 **Based in:** Barcelona, Spain 🇪🇸  
+🎓 **Diving into:** Networking & Cybersecurity 🛡️ | AI for Threat Intelligence  
+🐍 **Learning:** Python, AWS, Ansible | Security Automation  
+---
+
+### 🔧 **Skills & Tools**  
+
+<p align="">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ansible,aws,bash,git,github,js,kali,linux,powershell,pycharm,py,regex,vscode" />
+        <img src="https://skillicons.dev/icons?i=ansible,aws,bash,git,github,kali,linux,powershell,pycharm,py,regex,vscode&perline=6" />
     </a>
-</p>
+</p>  
 
+---
+
+### 🚀 Featured Projects  
+
+**[Enterprise Network Simulation with Proxmox](https://github.com/AdriaManero-ITB2425)**  
+I built a **home server** running **Proxmox** to simulate a real-world **enterprise network**. This environment includes an **Active Directory server**, multiple **Windows and Linux workstations**, a **security server**, and an **email server**, allowing me to explore system administration, network security, and penetration testing. Using **Kali Linux**, I conduct ethical hacking assessments to identify vulnerabilities and improve defenses. This project helps me bridge the gap between **offensive and defensive security** while gaining hands-on experience in **virtualization, cybersecurity, and IT infrastructure**.<br> 
+**[Reverse Shell with Python](https://github.com/AdriaManero-ITB2425)**<br>
+Comming soon...
+
+---
+
+### My GitHub Stats 📈
+
+![](https://github-readme-stats.vercel.app/api?username=AdriaManero-ITB2425&show_icons=true&theme=radical)
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
