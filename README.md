@@ -1,24 +1,21 @@
 ## Hi there 👋
 
-<!--
-**AdriaManero-ITB2425/AdriaManero-ITB2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn GitHub Email
 
-Here are some ideas to get you started:
+---
+I'm Adr1k, an undergraduate student in Computer Network Systems Management at @ITECBCN. I'm looking forward to bridging the gap between Cybersecurity and Artificial Intelligence. I love tackling complex engineering challenges and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Barcelona, Spain 🇪🇸
+Studying Networking and Cybersecurity 🛡️
+Learning Python, AWS and Ansible 🐍
+Working on personal projects 🚀
 
-```
- _   _      _ _        __        __         _     _ _ 
-| | | | ___| | | ___   \ \      / /__  _ __| | __| | |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
-|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
-```
+---
+### Skills and Tools
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ansible,aws,bash,git,github,js,kali,linux,powershell,pycharm,py,regex,vscode" />
+    </a>
+</p>
+
