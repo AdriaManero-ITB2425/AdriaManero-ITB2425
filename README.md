@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD545&height=120&section=header" alt="header"/>
 
 ## Hello World! 🌎
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrmanero/)](https://www.linkedin.com/in/jjean-jacques10/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/AdriaManero-ITB2425/)](https://github.com/AdriaManero-ITB2425/)
@@ -37,10 +37,10 @@ Comming soon...
 
 ### My GitHub Stats 📈
 
-![](https://github-readme-stats.vercel.app/api?username=AdriaManero-ITB2425&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=AdriaManero-ITB2425&show_icons=true&theme=dark)
 
-### Employer?
+### Hiring?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> [Download my resume](./AdriaManero-Resume.pdf)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=120&section=footer" alt="footer"/>
